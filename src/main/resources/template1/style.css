@@ -1,0 +1,134 @@
+.a {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.a .div {
+  background-image: url(./img/a4-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 592px;
+  height: 842px;
+  position: relative;
+}
+
+.a .TTPU-LOGO {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 33px;
+  left: 43px;
+  object-fit: cover;
+}
+
+.a .element-toshkent-she {
+  position: absolute;
+  width: 267px;
+  height: 54px;
+  top: 66px;
+  left: 182px;
+}
+
+.a .frame {
+  position: absolute;
+  width: 8px;
+  height: 10px;
+  top: 159px;
+  left: 32px;
+}
+
+.a .TURIN-POLYTECHNIC {
+  position: absolute;
+  width: 334px;
+  height: 11px;
+  top: 42px;
+  left: 182px;
+}
+
+.a .rectangle {
+  position: absolute;
+  width: 16px;
+  height: 172px;
+  top: 0;
+  left: 576px;
+  background-color: #385e71;
+}
+
+.a .line {
+  position: absolute;
+  width: 77px;
+  height: 1px;
+  top: 170px;
+  left: 42px;
+  object-fit: cover;
+}
+
+.a .img {
+  position: absolute;
+  width: 46px;
+  height: 1px;
+  top: 170px;
+  left: 136px;
+  object-fit: cover;
+}
+
+.a .text-wrapper {
+  position: absolute;
+  width: 12px;
+  top: 158px;
+  left: 124px;
+  font-family: "Istok Web", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-2 {
+  position: absolute;
+  top: 158px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .text-wrapper-3 {
+  position: absolute;
+  top: 158px;
+  left: 137px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .line-2 {
+  position: absolute;
+  width: 494px;
+  height: 2px;
+  top: 754px;
+  left: 34px;
+}
+
+.a .rectangle-2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 772px;
+  left: 514px;
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #385e71;
+}
